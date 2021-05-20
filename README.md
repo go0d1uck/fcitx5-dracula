@@ -1,5 +1,5 @@
 # fcitx5-dracula
-A dark Fcitx skin using the Dracula color scheme.
+A dark Fcitx5 skin using the Dracula color scheme.
 ## To Install
 
 Clone the repo into the fcitx skin directory.
